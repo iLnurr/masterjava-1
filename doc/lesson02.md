@@ -1,6 +1,10 @@
 # <a href="https://github.com/JavaWebinar/masterjava">Многопоточность. Веб-сервисы. XML. Распределенные приложения</a>.
 
-## Разбор Домашнего Задания-9:
+## Разбор HW1:
+
+## Java Microbenchmark JMH (от Алексея Шипилева)
+- <a href="http://tutorials.jenkov.com/java-performance/jmh.html">JMH - Java Microbenchmark Harness</a>, <a href="http://java-performance.info/jmh/">Java Performance Tuning Guide</a>
+- <a href="https://github.com/artyushov/idea-jmh-plugin">idea-jmh-plugin</a>, <a href="http://stackoverflow.com/questions/37720692/exception-while-trying-to-acquire-a-jmh-lock/#39562747">Exception while trying to acquire a JMH lock</a>
 
 ## Формат XML. Работа с XML в Java
 - <a href="http://genberm.narod.ru/xml/lections/xml/introduction.html">История создания</a>. <a href="http://www.duct-tape-architect.ru/?p=315">XML формат и технологии</a>
@@ -26,5 +30,5 @@
 - Сделать xml с тестовыми данными.
 - Реализовать консольное приложение, которые принимает как параметры имя проекта и путь к xml и генерирует на выходе html файл с таблицей его участников (можно через <a href="http://www.vogella.com/tutorials/JavaXML/article.html#javastax_write">StaxWriter</a>).
 
-## Optional
+#### Optional
 - Сделать максимальное количество реализаций на основе всех технологий (без DOM и SAX).
