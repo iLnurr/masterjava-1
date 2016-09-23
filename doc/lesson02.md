@@ -1,5 +1,7 @@
 # <a href="https://github.com/JavaWebinar/masterjava">Многопоточность. Веб-сервисы. XML. Распределенные приложения</a>.
 
+<a href="https://www.youtube.com/watch?v=eq3KiAH4IBI&ab_channel=IntelliJIDEA">42 IntelliJ IDEA Tips and Tricks</a>
+
 ## Разбор HW1:
 
 ## Java Microbenchmark JMH (от Алексея Шипилева)
@@ -17,6 +19,7 @@
 - XPath: <a href="http://www.ibm.com/developerworks/ru/library/x-javaxpathapi/">Java XPath API</a>
 - <a href="https://msdn.microsoft.com/ru-ru/library/ms256086">Примеры XPath</a> 
 - <a href="http://www.ibm.com/developerworks/ru/library/x-jaxp2">Преобразование XSLT</a>, <a href="http://stackoverflow.com/questions/3360017/why-does-xslt-output-all-text-by-default">Default XSLT output</a>
+- <a href="http://stackoverflow.com/questions/676250/different-ways-of-loading-a-file-as-an-inputstream#676273">Different ways of loading a file as an InputStream</a>
 - Справочник:
   - <a href="https://ru.wikipedia.org/wiki/JAXP">JAXP</a>, <a href="https://ru.wikipedia.org/wiki/XML">XML</a>, <a href="https://ru.wikipedia.org/wiki/Document_Object_Model">DOM</a>, <a href="https://ru.wikipedia.org/wiki/SAX">SAX</a>
   - <a href="https://ru.wikipedia.org/wiki/Xerces">Xerces</a>, <a href="https://ru.wikipedia.org/wiki/Xalan">Xalan</a>, <a href="https://ru.wikipedia.org/wiki/XSLT">XSLT</a>, <a href="https://ru.wikipedia.org/wiki/XSL">XSL</a>
