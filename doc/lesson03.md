@@ -65,11 +65,11 @@
 
 ![image](https://cloud.githubusercontent.com/assets/13649199/19007654/bba86d5a-876e-11e6-86d1-43e8af435a8a.png)
 
-- Импортировать всех пользователей в модуле export в базу данных (на ваш выбор, одну таблицу users без ссылок на группы). 
+- Загрузить всех пользователей в модуле export в базу данных (без синхронизации, база на ваш выбор, одну таблицу users без ссылок на группы). 
 - Сделать реализацию с учетом того, что пользователей может быть ООчень много.   
 
 
 #### Optional
 - Сделать форму заргузки файла xml
   - <a href="https://commons.apache.org/proper/commons-fileupload/">Commons FileUpload</a> (<a href="https://tomcat.apache.org/tomcat-8.0-doc/api/org/apache/tomcat/util/http/fileupload/package-summary.html">Tomcat fileupload copied uand package renamed</a>)
-- Сделать отображение импортированных пользователей в модуле web  
+- Сделать отображение импортированных пользователей в модуле web
