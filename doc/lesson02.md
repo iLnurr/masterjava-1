@@ -1,8 +1,10 @@
 # <a href="https://github.com/JavaWebinar/masterjava">Многопоточность. Веб-сервисы. XML. Распределенные приложения</a>.
 
 <a href="https://www.youtube.com/watch?v=eq3KiAH4IBI&ab_channel=IntelliJIDEA">42 IntelliJ IDEA Tips and Tricks</a>
+<a href="https://habrahabr.ru/post/283290/">Сравнение EE и Spring в комментариях</a>
 
 ## Разбор HW1:
+<a href="http://stackoverflow.com/questions/1132507/java-array-thread-safety">Java array thread-safety</a>
 
 ## Java Microbenchmark JMH (от Алексея Шипилева)
 - <a href="http://tutorials.jenkov.com/java-performance/jmh.html">JMH - Java Microbenchmark Harness</a>, <a href="http://java-performance.info/jmh/">Java Performance Tuning Guide</a>
