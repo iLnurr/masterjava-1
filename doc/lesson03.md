@@ -1,6 +1,5 @@
 # <a href="https://github.com/JavaWebinar/masterjava">Многопоточность. Веб-сервисы. XML. Распределенные приложения</a>.
 
-<a href="https://habrahabr.ru/post/283290/">Сравнение EE и Spring в комментариях</a>
 ## Разбор HW2:
 - <a href="http://stackoverflow.com/questions/1631396/what-is-an-xsncname-type-and-when-should-it-be-used">xs:ID restriction</a>
 - <a href="https://www.youtube.com/watch?v=hxL5HejbvgE">Тагир Валеев. StreamEx + странности Stream API</a>  
