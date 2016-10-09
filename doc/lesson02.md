@@ -17,9 +17,12 @@
 - <a href="http://genberm.narod.ru/xml/schema/schema0/2.7.html">sequence/ choice/ all/ group</a>. <a href="https://jaxb.java.net/tutorial/section_2_2_15-Referring-to-Another-XML-Element.html"> Referring to Another XML Element</a>
 
 ## Работа с XML в Java
+- <a href="http://www.vogella.com/tutorials/JavaXML/article.html">Работа с XML в Java</a>.
+
+#### JAXB
+- <a href="https://ru.wikipedia.org/wiki/Java_Architecture_for_XML_Binding">JAXB</a>
 
 #### JAXP
-- <a href="http://www.vogella.com/tutorials/JavaXML/article.html">Работа с XML в Java</a>.
 - <a href="http://www.ibm.com/developerworks/ru/library/x-jaxp/">JAXP: вспомогательный слой над SAX и DOM API</a>
 - <a href="https://www.ibm.com/developerworks/ru/library/x-javaxmlvalidapi/">Валидации XML</a>
 
