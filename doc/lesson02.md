@@ -12,22 +12,27 @@
 - <a href="http://stackoverflow.com/a/1172371/548473">Maven latest dependency version</a>
 
 ## Формат XML.
-- <a href="http://genberm.narod.ru/xml/lections/xml/introduction.html">История создания</a>. <a href="http://www.duct-tape-architect.ru/?p=315">XML формат и технологии</a>
+- <a href="http://genberm.narod.ru/xml/lections/xml/introduction.html">История создания</a>. <a href="http://www.duct-tape-architect.ru/?p=315">XML формат и технологии</a>, <a href="https://ru.wikipedia.org/wiki/XML">XML</a>
 - <a href="http://stackoverflow.com/questions/33746/xml-attribute-vs-xml-element#33757">Attribute vs Element</a>. 
 - <a href="http://genberm.narod.ru/xml/schema/schema0/2.7.html">sequence/ choice/ all/ group</a>. <a href="https://jaxb.java.net/tutorial/section_2_2_15-Referring-to-Another-XML-Element.html"> Referring to Another XML Element</a>
+- <a href="http://genberm.narod.ru/">Справочник по XML</a>
 
 ## Работа с XML в Java
 - <a href="http://www.vogella.com/tutorials/JavaXML/article.html">Работа с XML в Java</a>.
+- <a href="https://ru.wikipedia.org/wiki/Document_Object_Model">DOM</a>, <a href="https://ru.wikipedia.org/wiki/SAX">SAX</a>
 
-#### JAXB
+#### JAXB, JAXP
 - <a href="https://ru.wikipedia.org/wiki/Java_Architecture_for_XML_Binding">JAXB</a>
-
-#### JAXP
 - <a href="http://www.ibm.com/developerworks/ru/library/x-jaxp/">JAXP: вспомогательный слой над SAX и DOM API</a>
+- <a href="https://ru.wikipedia.org/wiki/Java_Architecture_for_XML_Binding">JAXB</a>, <a href="https://ru.wikipedia.org/wiki/JAXP">JAXP</a>, <a href="https://ru.wikipedia.org/wiki/Xerces">Xerces</a>, <a href="https://ru.wikipedia.org/wiki/Xalan">Xalan</a>
 - <a href="https://www.ibm.com/developerworks/ru/library/x-javaxmlvalidapi/">Валидации XML</a>
 
+#### Guava
+- <a href="https://github.com/google/guava">Guava</a>
+- <a href="http://stackoverflow.com/questions/676250/different-ways-of-loading-a-file-as-an-inputstream#676273">Different ways of loading a file as an InputStream</a>
+
 #### StaX
-- StAX: <a href="https://www.ibm.com/developerworks/ru/library/x-stax1/">XMLStreamReader</a>, <a href="https://www.ibm.com/developerworks/ru/library/x-stax2/">XMLEventReader</a>
+- <a href="https://en.wikipedia.org/wiki/StAX">StAX</a>: <a href="https://www.ibm.com/developerworks/ru/library/x-stax1/">XMLStreamReader</a>, <a href="https://www.ibm.com/developerworks/ru/library/x-stax2/">XMLEventReader</a>
 
 #### XPath
 - XPath: <a href="http://www.ibm.com/developerworks/ru/library/x-javaxpathapi/">Java XPath API</a>
@@ -35,13 +40,7 @@
 
 #### XSLT
 - <a href="http://www.ibm.com/developerworks/ru/library/x-jaxp2">Преобразование XSLT</a>, <a href="http://stackoverflow.com/questions/3360017/why-does-xslt-output-all-text-by-default">Default XSLT output</a>
-
-- Справочник:
-  - <a href="http://stackoverflow.com/questions/676250/different-ways-of-loading-a-file-as-an-inputstream#676273">Different ways of loading a file as an InputStream</a>
-  - <a href="https://ru.wikipedia.org/wiki/JAXP">JAXP</a>, <a href="https://ru.wikipedia.org/wiki/XML">XML</a>, <a href="https://ru.wikipedia.org/wiki/Document_Object_Model">DOM</a>, <a href="https://ru.wikipedia.org/wiki/SAX">SAX</a>
-  - <a href="https://ru.wikipedia.org/wiki/Xerces">Xerces</a>, <a href="https://ru.wikipedia.org/wiki/Xalan">Xalan</a>, <a href="https://ru.wikipedia.org/wiki/XSLT">XSLT</a>, <a href="https://ru.wikipedia.org/wiki/XSL">XSL</a>
-  - <a href="https://ru.wikipedia.org/wiki/Java_Architecture_for_XML_Binding">JAXB</a>, <a href="https://en.wikipedia.org/wiki/StAX">StAX</a>  
-  - <a href="http://genberm.narod.ru/">Справочник по XML</a>
+- <a href="https://ru.wikipedia.org/wiki/XSLT">XSLT</a>, <a href="https://ru.wikipedia.org/wiki/XSL">XSL</a>
   - <a href="https://www.w3.org/TR/xslt#built-in-rule">XSL Transformations (XSLT)</a>
   
 ## Домашнее задание
