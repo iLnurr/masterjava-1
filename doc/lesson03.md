@@ -66,15 +66,13 @@
 - <a href="http://stackoverflow.com/questions/17482320/maven-module-inheritance-vs-aggregation">maven module inheritance vs aggregation</a>
    
 ## Домашнее задание
-- Сделать структуру проекта согласно схеме. В модулях c `packaging=pom` кода нет, корневое `src` перенести в другие модули. 
+- Сделать структуру проекта согласно схеме. В модулях c `packaging=pom` кода нет, корневое `src` перенести в другие модули.
 
 ![image](https://cloud.githubusercontent.com/assets/13649199/19290595/15b51840-9019-11e6-86f4-e26a99dc9697.png)
 
-- Загрузить из нашего `payload.xml` всех пользователей в модуле export в базу данных (без синхронизации, база на ваш выбор, одну таблицу users без ссылок на группы). 
-- Сделать реализацию в несколько потоков и с учетом того, что пользователей может быть ООчень много.   
-  - <a href="http://stackoverflow.com/a/12207237/548473">Speed up insertion performance in PostgreSQL</a>
+- Реализовать заргузку файла `payload.xml` в модуле `export` (через StAX) и отображение импортированных пользователей (без ссылок на города и группы)
+  - <a href="https://commons.apache.org/proper/commons-fileupload/">Commons FileUpload</a> (<a href="https://tomcat.apache.org/tomcat-8.0-doc/api/org/apache/tomcat/util/http/fileupload/package-summary.html">Tomcat fileupload copied and package renamed</a>)
 
 #### Optional
-- Сделать форму заргузки файла xml  в модуле export
-  - <a href="https://commons.apache.org/proper/commons-fileupload/">Commons FileUpload</a> (<a href="https://tomcat.apache.org/tomcat-8.0-doc/api/org/apache/tomcat/util/http/fileupload/package-summary.html">Tomcat fileupload copied uand package renamed</a>)
-- Сделать отображение импортированных пользователей в модуле web
+- Для вывода использовать шаблонизатор <a href="http://www.thymeleaf.org/">Thymeleaf 3</a>
+  - <a href="http://www.concretepage.com/thymeleaf/java-thymeleaf-example-getting-started-with-thymeleaf">Java Thymeleaf Example</a>
