@@ -56,6 +56,7 @@ mvn dependency:analyze
 ### Tomcat Class Loader
 - <a href="https://tomcat.apache.org/tomcat-8.0-doc/class-loader-howto.html">Class Loader HOW-TO</a>
 - Библиотеки vs Frameworks и Tomcat Common Lib. <a href="https://habrahabr.ru/post/222443/">Memory Leaks</a>. 
+- <a href="https://www.youtube.com/watch?v=sSmQ6W-ovZE">Никита Сальников-Тарновский — Утечки памяти</a>
 
 ## Домашнее задание
 - Созханить всех импортированных пользователей в модуле export в базу данных (без синхронизации, база на ваш выбор, одну таблицу users без ссылок на группы). 
