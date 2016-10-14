@@ -2,6 +2,12 @@
 
 ## ![hw](https://cloud.githubusercontent.com/assets/13649199/13672719/09593080-e6e7-11e5-81d1-5cb629c438ca.png) Разбор домашнего задания HW3
 
+### <a href="http://www.thymeleaf.org/">Thymeleaf</a>:  natural templates
+- <a href="http://www.thymeleaf.org/doc/articles/thymeleaf3migration.html">Thymeleaf 3 migration guide</a>
+- <a href="http://www.thymeleaf.org/doc/articles/layouts.html">th:include и th:replace</a>
+- <a href="http://www.thymeleaf.org/doc/tutorials/3.0/usingthymeleaf.html#conditional-expressions">Tutorial</a>
+- <a href="http://www.thymeleaf.org/doc/articles/standardurlsyntax.html">URL Syntax</a>
+
 ### <a href="http://wooordhunt.ru/word/maven">Maven</a>. Поиск и разрешение зависимостей
 - Maven options: -pl export -am install, -h, -X
 - <a href="https://maven.apache.org/guides/introduction/introduction-to-dependency-mechanism.html">Maven transitive dependencies</a>
@@ -28,13 +34,6 @@ java -jar jar-hell.jar .
 ```
 mvn dependency:analyze
 ```
-### <a href="http://www.thymeleaf.org/">Thymeleaf</a>:  natural templates
-- <a href="http://www.thymeleaf.org/doc/articles/thymeleaf3migration.html">Thymeleaf 3 migration guide</a>
-- <a href="http://www.thymeleaf.org/doc/articles/layouts.html">th:include и th:replace</a>
-- <a href="http://www.thymeleaf.org/doc/tutorials/3.0/usingthymeleaf.html#conditional-expressions">Tutorial</a>
-- <a href="http://www.thymeleaf.org/doc/articles/standardurlsyntax.html">URL Syntax</a>
-
-
 ### Логирование
 - Общие ресурсы. <a href="http://www.slf4j.org/legacy.html">Добавление зависимостей логирования</a> в без дублирования.
 - <a href="https://www.mkyong.com/logging/logback-xml-example">logback.xml Example</a>
