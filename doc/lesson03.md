@@ -21,6 +21,7 @@
 
 ## SOA и Микросервисы
  - <a href="http://ru.wikipedia.org/wiki/Сервис-ориентированная_архитектура">Сервис-ориентированная архитектура</a> как повышение абстракции производства ПО
+ - <a href="http://www.javaworld.com/article/2071889/soa/what-is-service-oriented-architecture.html">What is service-oriented architecture?</a>
  - <a href="https://ru.wikipedia.org/wiki/Микросервисы">Современное представление (SOA): Микросервисы</a>
  - <a href="http://habrahabr.ru/post/249183/">Микросервисы (Microservices)</a> 
  - <a href="https://habrahabr.ru/company/jugru/blog/272009/">Доклад Кирилла Толкачёва и Александра Тарасова про микросервисы</a>
