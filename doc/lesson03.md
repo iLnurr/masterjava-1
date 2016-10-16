@@ -12,14 +12,15 @@
 - <a href="http://stackoverflow.com/questions/1667454/xsl-transformation-in-java-with-parameters">XSL Transformation in Java with parameters</a>  
 - <a href="https://greenbytes.de/tech/tc/xslt/">Test Cases for XSLT support in browsers</a>  
 
-## Монады. flatMap
+## Затяние 3
+### ![video](https://cloud.githubusercontent.com/assets/13649199/13672715/06dbc6ce-e6e7-11e5-81a9-04fbddb9e488.png) 4.<a href="https://drive.google.com/open?id=0B9Ye2auQ_NsFbGlWWkk0amM1cms">Монады. flatMap</a>
 - <a href="https://habrahabr.ru/post/183150/"> Функторы, аппликативные функторы и монады в картинках</a>
 - <a href="https://habrahabr.ru/company/cit/blog/262055/">Монады в Java 8</a>
   - <a href="https://www.coursera.org/specializations/scala">Куср Сoursera по функциональному программированию</a>
 - <a href="http://stackoverflow.com/a/19932439/548473">Three Monad laws.</a>
 - <a href="https://dzone.com/articles/whats-wrong-java-8-part-iv">What's Wrong in Java 8 Monads</a>
 
-## SOA и Микросервисы
+### ![video](https://cloud.githubusercontent.com/assets/13649199/13672715/06dbc6ce-e6e7-11e5-81a9-04fbddb9e488.png) 5. <a href="https://drive.google.com/open?id=0B9Ye2auQ_NsFM3FrSUEzeVBrbk0">SOA и Микросервисы</a>
  - <a href="http://ru.wikipedia.org/wiki/Сервис-ориентированная_архитектура">Сервис-ориентированная архитектура</a> как повышение абстракции производства ПО
  - <a href="http://www.javaworld.com/article/2071889/soa/what-is-service-oriented-architecture.html">What is service-oriented architecture?</a>
  - <a href="https://ru.wikipedia.org/wiki/Микросервисы">Современное представление (SOA): Микросервисы</a>
@@ -63,11 +64,11 @@
      - <a href="https://dzone.com/articles/new-in-spring-5-functional-web-framework">Spring 5: Functional Web Framework</a>
      - <a href="http://www.ofbizian.com/2014/09/camel-microservices.html">Apache Camel for Micro­service Architectures</a>
      
-## Многомодульный Maven проект
+### ![video](https://cloud.githubusercontent.com/assets/13649199/13672715/06dbc6ce-e6e7-11e5-81a9-04fbddb9e488.png) 6. <a href="https://drive.google.com/open?id=0B9Ye2auQ_NsFZDY5NnpJQldSX00">Многомодульный Maven проект</a>
 - <a href="https://github.com/JavaWebinar/topjava08/blob/doc/doc/lesson01.md#-4-maven">Maven на topjava</a>. Snapshot. <a href="http://maven.apache.org/guides/mini/guide-multiple-modules.html">The Reactor</a>.
 - <a href="http://stackoverflow.com/questions/17482320/maven-module-inheritance-vs-aggregation">maven module inheritance vs aggregation</a>
    
-## Домашнее задание
+## ![hw](https://cloud.githubusercontent.com/assets/13649199/13672719/09593080-e6e7-11e5-81d1-5cb629c438ca.png) Домашнее задание HW3
 - Сделать структуру проекта согласно схеме. В модулях c `packaging=pom` кода нет, корневое `src` перенести в другие модули.
 
 ![image](https://cloud.githubusercontent.com/assets/13649199/19290595/15b51840-9019-11e6-86f4-e26a99dc9697.png)
