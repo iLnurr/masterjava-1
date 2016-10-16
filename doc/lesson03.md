@@ -12,7 +12,7 @@
 - <a href="http://stackoverflow.com/questions/1667454/xsl-transformation-in-java-with-parameters">XSL Transformation in Java with parameters</a>  
 - <a href="https://greenbytes.de/tech/tc/xslt/">Test Cases for XSLT support in browsers</a>  
 
-## Монады
+## Монады. flatMap
 - <a href="https://habrahabr.ru/post/183150/"> Функторы, аппликативные функторы и монады в картинках</a>
 - <a href="https://habrahabr.ru/company/cit/blog/262055/">Монады в Java 8</a>
   - <a href="https://www.coursera.org/specializations/scala">Куср Сoursera по функциональному программированию</a>
