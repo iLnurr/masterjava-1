@@ -15,6 +15,7 @@
 ## Монады
 - <a href="https://habrahabr.ru/post/183150/"> Функторы, аппликативные функторы и монады в картинках</a>
 - <a href="https://habrahabr.ru/company/cit/blog/262055/">Монады в Java 8</a>
+  - <a href="https://www.coursera.org/specializations/scala">Куср Сoursera по функциональному программированию</a>
 - <a href="http://stackoverflow.com/a/19932439/548473">Three Monad laws.</a>
 - <a href="https://dzone.com/articles/whats-wrong-java-8-part-iv">What's Wrong in Java 8 Monads</a>
 
