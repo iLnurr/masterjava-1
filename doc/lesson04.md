@@ -41,7 +41,10 @@ java -jar jar-hell.jar .
 mvn dependency:analyze
 ```
 
-### Логирование
+## ![video](https://cloud.githubusercontent.com/assets/13649199/13672715/06dbc6ce-e6e7-11e5-81a9-04fbddb9e488.png) 4. <a href="https://drive.google.com/open?id=0B9Ye2auQ_NsFSTR0cTl4NjE1OEE">Логирование</a>
+
+> Добавил в корень проекта `config_templates` с копией конфигурации.
+
 - Общие ресурсы. <a href="http://www.slf4j.org/legacy.html">Добавление зависимостей логирования</a> в без дублирования.
 - <a href="https://www.mkyong.com/logging/logback-xml-example">logback.xml Example</a>
 - Справочник:
