@@ -49,7 +49,7 @@ mvn dependency:analyze
 - <a href="https://www.mkyong.com/logging/logback-xml-example">logback.xml Example</a>
 - Справочник:
   - <a href="https://drive.google.com/open?id=0B9Ye2auQ_NsFaTdYUnpLNFFUeXM">Topjava: логирование.</a>
-  - <a href="https://www.youtube.com/watch?v=qzqAUUgB3v8">Владимир Красильщик: Что надо знать о логировании прагматичному Java‑программисту</a>  
+  - <a href="https://www.youtube.com/watch?v=j-i3NQiKbcc">Владимир Красильщик: Что надо знать о логировании прагматичному Java‑программисту</a>  
   - <a href="http://habrahabr.ru/post/113145/">Java Logging: история кошмара</a>
   - <a href="http://skipy.ru/useful/logging.html">Ведение лога приложения</a>
   - <a href="http://logging.apache.org/log4j/2.x/index.html">Log4j</a>, <a href="http://logback.qos.ch/">Logback</a>
