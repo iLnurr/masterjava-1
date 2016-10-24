@@ -86,4 +86,4 @@ mvn dependency:analyze
 - Сделать загрузку пользователей через `COPY` 
   - <a href="http://stackoverflow.com/a/12207237/548473">Speed up insertion performance in PostgreSQL</a>
 
-#### <a href="https://www.jetbrains.com/help/idea/2016.2/dependencies-analysis.html">IDEA Dependencies Analysis</a>
+#### <a href="https://www.jetbrains.com/help/idea/2016.2/analyzing-dependencies-using-dsm.html">IDEA DSM plugin</a>
