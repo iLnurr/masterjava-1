@@ -54,6 +54,8 @@ mvn dependency:analyze
   - <a href="http://skipy.ru/useful/logging.html">Ведение лога приложения</a>
   - <a href="http://logging.apache.org/log4j/2.x/index.html">Log4j</a>, <a href="http://logback.qos.ch/">Logback</a>
 
+## ![video](https://cloud.githubusercontent.com/assets/13649199/13672715/06dbc6ce-e6e7-11e5-81a9-04fbddb9e488.png) 5.<a href="https://drive.google.com/open?id=0B9Ye2auQ_NsFd29NNVhjd2ZKaGs">JDBC helper library. Tomcat Class Loader. Memory Leeks.</a>
+
 ### Выбор lightweight JDBC helper library
 - <a href="http://stackoverflow.com/questions/7137929/lightweight-jdbc-helper-library-alternative-to-apache-commons-dbutils">Lightweight JDBC helper library</a>
 - <a href="https://habrahabr.ru/company/luxoft/blog/280784/#ii5">Библиотеки для работа с JDBC</a>
@@ -62,13 +64,14 @@ mvn dependency:analyze
 - <a href="https://commons.apache.org/proper/commons-dbutils/">Commons DbUtils</a>, <a href="https://habrahabr.ru/post/183204/">доработка commons-dbutils</a>
 - <a href="http://jdbi.org/">JDBI</a>, <a href="http://zetcode.com/db/jdbi/">JDBI tutorial</a> (<a href="http://www.dropwizard.io/0.7.1/docs/manual/jdbi.html">Dropwizard JDBI</a>),
 
-### Tomcat Class Loader
+### Tomcat Class Loader. Memory Leeks
 - <a href="https://tomcat.apache.org/tomcat-8.0-doc/class-loader-howto.html">Class Loader HOW-TO</a>
 - Библиотеки vs Frameworks и Tomcat Common Lib. <a href="https://habrahabr.ru/post/222443/">Memory Leaks</a>. 
 - <a href="https://www.youtube.com/watch?v=sSmQ6W-ovZE">Никита Сальников-Тарновский — Утечки памяти</a>
-- <a href="https://www.jetbrains.com/help/idea/2016.2/dependencies-analysis.html">IDEA Dependencies Analysis</a>
 
-## Домашнее задание
+## ![video](https://cloud.githubusercontent.com/assets/13649199/13672715/06dbc6ce-e6e7-11e5-81a9-04fbddb9e488.png) 6.<a href="https://drive.google.com/open?id=0B9Ye2auQ_NsFVUNOeWQyOG1waFE">HW6. Вопрос: как разбивать приложение на модули</a>
+
+### Домашнее задание
 - Сделать maven модуль `persist` для сохранения в базу (на ваш выбор)
 - Соханить всех импортированных пользователей в модуле export в базе (без синхронизации, одну таблицу users без ссылок на группы). 
   - Выводить только сообщение о результате импорта. 
@@ -79,7 +82,8 @@ mvn dependency:analyze
 #### Optional
 - Сконфигурить DataSource через JNDI
   - Добавить работу с базой через <a href="https://github.com/JavaWebinar/topjava08/blob/doc/doc/lesson06.md#-7---Конфигурирование-tomcat-через-maven-plugin-jndi-lookup">Tomcat JNDI pool</a>
-  - <a href="https://drive.google.com/open?id=0B9Ye2auQ_NsFUTdERjRwMmFzSlE">context.xml</a>
 
 - Сделать загрузку пользователей через `COPY` 
   - <a href="http://stackoverflow.com/a/12207237/548473">Speed up insertion performance in PostgreSQL</a>
+
+#### <a href="https://www.jetbrains.com/help/idea/2016.2/dependencies-analysis.html">IDEA Dependencies Analysis</a>
