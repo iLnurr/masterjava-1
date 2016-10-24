@@ -66,6 +66,7 @@ mvn dependency:analyze
 - <a href="https://tomcat.apache.org/tomcat-8.0-doc/class-loader-howto.html">Class Loader HOW-TO</a>
 - Библиотеки vs Frameworks и Tomcat Common Lib. <a href="https://habrahabr.ru/post/222443/">Memory Leaks</a>. 
 - <a href="https://www.youtube.com/watch?v=sSmQ6W-ovZE">Никита Сальников-Тарновский — Утечки памяти</a>
+- <a href="https://www.jetbrains.com/help/idea/2016.2/dependencies-analysis.html">IDEA Dependencies Analysis</a>
 
 ## Домашнее задание
 - Сделать maven модуль `persist` для сохранения в базу (на ваш выбор)
