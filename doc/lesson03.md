@@ -2,6 +2,9 @@
 
 ## ![hw](https://cloud.githubusercontent.com/assets/13649199/13672719/09593080-e6e7-11e5-81d1-5cb629c438ca.png) Разбор домашнего задания HW2
 ### ![video](https://cloud.githubusercontent.com/assets/13649199/13672715/06dbc6ce-e6e7-11e5-81a9-04fbddb9e488.png) 1. <a href="https://drive.google.com/open?id=0B9Ye2auQ_NsFRFpzemZ0OHp3SUE">Scheme, j2html, JAXB</a>
+
+> Изменение в коде: пересечение коллекций слелал через `Collections.disjoint`
+
 - <a href="http://stackoverflow.com/questions/1631396/what-is-an-xsncname-type-and-when-should-it-be-used">xs:ID restriction</a>
 - <a href="https://www.youtube.com/watch?v=hxL5HejbvgE">Тагир Валеев. StreamEx + странности Stream API</a>  
 - <a href="https://github.com/amaembo/streamex">StreamEx</a>  
