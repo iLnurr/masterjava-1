@@ -78,9 +78,5 @@
 
 ![image](https://cloud.githubusercontent.com/assets/13649199/19290595/15b51840-9019-11e6-86f4-e26a99dc9697.png)
 
-- Реализовать заргузку файла `payload.xml` в модуле `export` (через StAX) и отображение импортированных пользователей (без ссылок на города и группы)
+- Реализовать заргузку файла `payload.xml` в модуле `export` (через StAX) и вывод в лог импортированных пользователей (без ссылок на города и группы)
   - <a href="https://commons.apache.org/proper/commons-fileupload/">Commons FileUpload</a> (<a href="https://tomcat.apache.org/tomcat-8.0-doc/api/org/apache/tomcat/util/http/fileupload/package-summary.html">Tomcat fileupload copied and package renamed</a>)
-
-#### Optional
-- Для вывода использовать шаблонизатор <a href="http://www.thymeleaf.org/">Thymeleaf 3</a>
-  - <a href="http://www.concretepage.com/thymeleaf/java-thymeleaf-example-getting-started-with-thymeleaf">Java Thymeleaf Example</a>
