@@ -1,9 +1,11 @@
 # Онлайн проекта  <a href="https://github.com/JavaWebinar/masterjava">Masterjava</a>.
 
 ## ![hw](https://cloud.githubusercontent.com/assets/13649199/13672719/09593080-e6e7-11e5-81d1-5cb629c438ca.png) Разбор домашнего задания HW4
+
 - Подключаем <a href="http://stackoverflow.com/a/6258793/548473">jDBI sample</a>
 - <a href="https://gitlab.com/rbertoncelj/jdbi-entity-mapper">Simple EntityMapper with `@Column` support</a>
 - <a href="http://manikandan-k.github.io/2015/05/10/Transactions_in_jdbi.html">How to use Transactions in JDBI</a>
+
 ----------------
 
 ## Конфигурирование приложения.
