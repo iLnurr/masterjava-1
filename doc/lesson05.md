@@ -16,10 +16,10 @@
  - <a href="https://github.com/typesafehub/config/blob/master/HOCON.md">HOCON Syntax</a>: Include, required(), Substitutions 
 
 ## Lombook
-Подключаем <a href="https://habrahabr.ru/post/142356/">Lombok</a>
-<a href="https://urvanov.ru/2015/09/22/project-lombok/">Фичи Lombook</a>
-<a href="https://github.com/mplushnikov/lombok-intellij-plugin">Подключение к IDEA</a>
-<a href="http://stackoverflow.com/questions/3852091/is-it-safe-to-use-project-lombok">Drawbacks</a>, <a href="http://stackoverflow.com/a/29771875/548473">Call super constructor</a>
+- Подключаем <a href="https://habrahabr.ru/post/142356/">Lombok</a>
+- <a href="https://urvanov.ru/2015/09/22/project-lombok/">Фичи Lombook</a>
+- <a href="https://github.com/mplushnikov/lombok-intellij-plugin">Подключение к IDEA</a>
+- <a href="http://stackoverflow.com/questions/3852091/is-it-safe-to-use-project-lombok">Drawbacks</a>, <a href="http://stackoverflow.com/a/29771875/548473">Call super constructor</a>
 
 ## JAXB binding.
 
