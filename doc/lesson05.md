@@ -21,8 +21,10 @@
 - <a href="https://github.com/mplushnikov/lombok-intellij-plugin">Подключение к IDEA</a>
 - <a href="http://stackoverflow.com/questions/3852091/is-it-safe-to-use-project-lombok">Drawbacks</a>, <a href="http://stackoverflow.com/a/29771875/548473">Call super constructor</a>
 
-## JAXB binding.
-
 ## Домашнее задание
+- Добавить в export синхронизацию городов и групп/проектов.
+- Добавить пользователю ссылки на города/группы.  
 
 #### Optional
+- Реализовать `MailSender` с конфигурированием параметров (например чз yandex)  
+ - <a href="https://commons.apache.org/proper/commons-email">Commons Email</a>
