@@ -8,14 +8,14 @@
 
 ----------------
 
-## Конфигурирование приложения.
+## ![video](https://cloud.githubusercontent.com/assets/13649199/13672715/06dbc6ce-e6e7-11e5-81a9-04fbddb9e488.png) 3. <a href="https://drive.google.com/open?id=0B9Ye2auQ_NsFZ3VZMlFITkk0LXM">Конфигурирование приложения</a>
 - <a href="http://springtips.blogspot.ru/">Переопределение занчений в конфигурации в Spring</a>. 
 - <a href="http://docs.spring.io/spring-boot/docs/current/reference/html/howto-properties-and-configuration.html#howto-change-configuration-depending-on-the-environment">Встроенные профили Spring Boot</a>
 - <a href="http://commons.apache.org/proper/commons-configuration/index.html">Apache commons-configuration2</a>
 - <a href="https://github.com/typesafehub/config">Typesafe config library </a>, user in <a href="https://www.playframework.com/documentation/2.5.x/ConfigFile">Playframework</a>
  - <a href="https://github.com/typesafehub/config/blob/master/HOCON.md">HOCON Syntax</a>: Include, required(), Substitutions 
 
-## Lombook
+## ![video](https://cloud.githubusercontent.com/assets/13649199/13672715/06dbc6ce-e6e7-11e5-81a9-04fbddb9e488.png) 4. <a href="https://drive.google.com/open?id=0B9Ye2auQ_NsFc3p3QTVwYktBWUk">Lombook</a>
 - Подключаем <a href="https://habrahabr.ru/post/142356/">Lombok</a>
 - <a href="https://urvanov.ru/2015/09/22/project-lombok/">Фичи Lombook</a>
 - <a href="https://github.com/mplushnikov/lombok-intellij-plugin">Подключение к IDEA</a>
