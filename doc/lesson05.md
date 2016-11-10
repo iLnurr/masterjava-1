@@ -4,6 +4,7 @@
 
 - Подключаем <a href="http://stackoverflow.com/a/6258793/548473">jDBI sample</a>
   - <a href="http://stackoverflow.com/a/2322214/548473">Postgresql enum advantages/disadvantages</a>
+  - <a href="http://stackoverflow.com/a/7834949/548473">ALTER Enum types since 9.1</a>
 - <a href="https://gitlab.com/rbertoncelj/jdbi-entity-mapper">Simple EntityMapper with `@Column` support</a>
 - <a href="http://manikandan-k.github.io/2015/05/10/Transactions_in_jdbi.html">How to use Transactions in JDBI</a>
 
