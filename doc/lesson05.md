@@ -2,7 +2,10 @@
 
 ## ![hw](https://cloud.githubusercontent.com/assets/13649199/13672719/09593080-e6e7-11e5-81d1-5cb629c438ca.png) Разбор домашнего задания HW4
 
-- Подключаем <a href="http://stackoverflow.com/a/6258793/548473">jDBI sample</a>
+### ![video](https://cloud.githubusercontent.com/assets/13649199/13672715/06dbc6ce-e6e7-11e5-81a9-04fbddb9e488.png) 1.<a href="https://drive.google.com/open?id=0B9Ye2auQ_NsFaTB3RHVMWjVpbXc">Коррекция в проекте</a>
+### ![video](https://cloud.githubusercontent.com/assets/13649199/13672715/06dbc6ce-e6e7-11e5-81a9-04fbddb9e488.png) 2. <a href="https://drive.google.com/open?id=0B9Ye2auQ_NsFZzdaTUxYOFd6Qlk">Добавляем модуль `persist`</a>
+
+-  <a href="http://stackoverflow.com/a/6258793/548473">jDBI sample</a>
   - <a href="http://stackoverflow.com/a/2322214/548473">Postgresql enum advantages/disadvantages</a>
   - <a href="http://stackoverflow.com/a/7834949/548473">ALTER Enum types since 9.1</a>
 - <a href="https://gitlab.com/rbertoncelj/jdbi-entity-mapper">Simple EntityMapper with `@Column` support</a>
