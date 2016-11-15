@@ -2,7 +2,8 @@
 
 ## ![hw](https://cloud.githubusercontent.com/assets/13649199/13672719/09593080-e6e7-11e5-81d1-5cb629c438ca.png) Разбор домашнего задания HW5
 
-## Миграция DB.
+## Работа с DB
+#### Миграция DB.
   - <a href="http://www.liquibase.org">Liquibase</a> (<a href="http://www.dropwizard.io/0.7.1/docs/manual/migrations.html">Dropwizard Migrations</a>)
   - <a href="https://flywaydb.org/">Flyway</a> (<a href="http://stackoverflow.com/questions/37385823/liquibase-vs-flyway-which-one-to-use">Liquibase vs FLyway which one to use?</a>)
   - <a href="http://www.mybatis.org/migrations/">MyBatis Migrations</a>
@@ -10,7 +11,7 @@
 - <a href="https://habrahabr.ru/post/314048/">Техника безопасности при работе с PostgreSQL</a>
 - <a href="https://docs.google.com/document/d/1ul1jH7sccyQVqpjItdFo_OQI9YxJV3V5hxqI7xa-YPM">DB Migration rules</a>
 
-## Масштабирование DB
+#### Масштабирование DB
 
 ## Веб-сервисы
 - <a href="http://www.4stud.info/networking/web-services.html">Веб-сервисы</a>. <a href="https://ru.wikipedia.org/wiki/SOAP">SOAP</a>.
