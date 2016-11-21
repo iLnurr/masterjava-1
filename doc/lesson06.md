@@ -7,6 +7,7 @@
   - <a href="https://flywaydb.org/">Flyway</a> (<a href="http://stackoverflow.com/questions/37385823/liquibase-vs-flyway-which-one-to-use">Liquibase vs FLyway which one to use?</a>)
   - <a href="http://www.mybatis.org/migrations/">MyBatis Migrations</a>
 - <a href="https://habrahabr.ru/post/314048/">Техника безопасности при работе с PostgreSQL</a>
+- <a href="https://habrahabr.ru/post/231213/">История про несогласованные данные</a>
 - <a href="https://docs.google.com/document/d/1ul1jH7sccyQVqpjItdFo_OQI9YxJV3V5hxqI7xa-YPM">DB Migration rules</a>
 
 ## Веб-сервисы
