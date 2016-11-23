@@ -12,7 +12,12 @@
 
 ## Веб-сервисы
 - <a href="https://ru.wikipedia.org/wiki/Веб-служба">Веб-служба</a>. <a href="https://en.wikipedia.org/wiki/Web_service">Web service</a>
-  - <a href="https://en.wikipedia.org/wiki/Web_API#Resource_vs._service">Resource vs. service</a>
+- Примеры SOAP:
+  - <a href="http://www.cbr.ru/DailyInfoWebServ/DailyInfo.asmx">Веб-сервис Центробанка, для получения ежедневных данных.</a>
+  - <a href="http://api.yandex.ru/speller/doc/dg/concepts/api-overview.xml">Яндекса проверки правописания.</a>
+     - <a href="https://tech.yandex.ru/#catalog">Yandex каталог технологий</a>
+  - <a href="https://www.flightstats.com/developers/bin/view/Web+Services/WSDL">Ряд веб сервисов авиастатистики, для мониторинга полетов, сведений о погоде, и.т.п.</a>
+- <a href="https://en.wikipedia.org/wiki/Web_API#Resource_vs._service">Resource vs. service</a>
 - <a href="https://habrahabr.ru/post/131343/">REST vs SOAP.</a>
 
 #### <a href="https://ru.wikipedia.org/wiki/REST">REST</a>.
@@ -23,11 +28,6 @@
 - <a href="http://www.4stud.info/networking/web-services.html">SOAP веб-сервисы</a>. 
 - <a href="https://ru.wikipedia.org/wiki/WSDL">WSDL</a>. 
 - <a href="http://static.ccm2.net/ccm.net/faq/images/0-pdpEtRZG-web.png">Web Services Standards</a>. 
-- Примеры:
-  - <a href="http://www.cbr.ru/DailyInfoWebServ/DailyInfo.asmx">Веб-сервис Центробанка, для получения ежедневных данных.</a>
-  - <a href="http://api.yandex.ru/speller/doc/dg/concepts/api-overview.xml">Яндекса проверки правописания.</a>
-     - <a href="https://tech.yandex.ru/#catalog">Yandex каталог технологий</a>
-  - <a href="https://www.flightstats.com/developers/bin/view/Web+Services/WSDL">Ряд веб сервисов авиастатистики, для мониторинга полетов, сведений о погоде, и.т.п.</a>
 
 #### Java реализации.
 - <a href="http://en.wikipedia.org/wiki/Java_API_for_XML_Web_Services">JAX-WS</a>. <a href="https://en.wikipedia.org/wiki/SOAP_with_Attachments_API_for_Java">SAAJ</a>. <a href="https://en.wikipedia.org/wiki/Java_API_for_XML-based_RPC">JAX-RPC</a>.
