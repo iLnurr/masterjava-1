@@ -41,12 +41,20 @@
    - <a href="http://jax-ws.java.net">GlassFish » Metro » JAX-WS</a>
    - <a href="http://localhost:8080/mail/mailService?wsdl">MailService WSDL</a>
    - <a href="http://localhost:8080/mail/mailService?xsd=1">MailService WSDL</a>
-- <a href="http://www.ibm.com/developerworks/webservices/library/ws-whichwsdl/" target="_blank">Стили WSDL</a>
 - Тестирование через <a href="http://www.soapui.org/">SoapUI</a>.
 
 ----------------
 ## Домашнее задание
 - Реализовать `MailSender` с конфигурированием параметров (например чз yandex)  
  - <a href="https://commons.apache.org/proper/commons-email">Commons Email</a>
+ 
+Параметры почты (yandex):
+```
+   mail.host: smtp.yandex.ru
+   mail.port: 465
+   mail.username: user@yandex.ru
+   mail.password: password
+   mail.properties.mail.smtp.ssl.enable :  true
+```
 - Сохранят результат отправки писем в DB
 - Протестировать отправку почты через SoapUI
