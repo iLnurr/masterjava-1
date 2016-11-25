@@ -11,7 +11,7 @@
 - <a href="https://gitlab.com/rbertoncelj/jdbi-entity-mapper">Simple EntityMapper with `@Column` support</a>
 - <a href="http://manikandan-k.github.io/2015/05/10/Transactions_in_jdbi.html">How to use Transactions in JDBI</a>
 
-### ![video](https://cloud.githubusercontent.com/assets/13649199/13672715/06dbc6ce-e6e7-11e5-81a9-04fbddb9e488.png) 3. <a href="">Реализуем `export` (TODO)</a>
+### ![video](https://cloud.githubusercontent.com/assets/13649199/13672715/06dbc6ce-e6e7-11e5-81a9-04fbddb9e488.png) 3. <a href="https://drive.google.com/open?id=0B9Ye2auQ_NsFRWFvNC1OWHQyUXM">Реализуем `export` и `web`</a>
 
 ----------------
 
