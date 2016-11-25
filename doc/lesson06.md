@@ -60,6 +60,7 @@
    mail.password: password
    mail.useSSL: true
    mail.useTLS: false
+   mail.debug: true
 ```
 - Сохранят результат отправки писем в DB
 - Протестировать отправку почты через SoapUI
