@@ -61,6 +61,7 @@
    mail.useSSL: true
    mail.useTLS: false
    mail.debug: true
+   mail.fromName: MasterJava
 ```
 - Сохранят результат отправки писем в DB
 - Протестировать отправку почты через SoapUI
