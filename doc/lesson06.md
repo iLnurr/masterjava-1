@@ -58,7 +58,8 @@
    mail.port: 465
    mail.username: user@yandex.ru
    mail.password: password
-   mail.properties.mail.smtp.ssl.enable :  true
+   mail.useSSL: true
+   mail.useTLS: false
 ```
 - Сохранят результат отправки писем в DB
 - Протестировать отправку почты через SoapUI
