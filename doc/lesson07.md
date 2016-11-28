@@ -26,7 +26,7 @@
 - <a href="http://ics.upjs.sk/~novotnyr/blog/2068/deploying-jax-ws-services-on-java-7-and-tomcat-7">Deploying JAX-WS Services without web.xml</a>
 
 ### Создание клиента почтового сервиса
-
+- <a href="http://stackoverflow.com/questions/5158537/jaxws-how-to-change-the-endpoint-address">Dynamically Change a Web Service Endpoint URL</a>
 ----------------
 
 ## Домашнее задание
