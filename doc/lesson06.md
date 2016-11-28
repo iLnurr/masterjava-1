@@ -38,6 +38,7 @@
 - <a href="http://en.wikipedia.org/wiki/Java_API_for_XML_Web_Services">JAX-WS</a>. <a href="https://en.wikipedia.org/wiki/SOAP_with_Attachments_API_for_Java">SAAJ</a>. <a href="https://en.wikipedia.org/wiki/Java_API_for_XML-based_RPC">JAX-RPC</a>.
 - <a href="http://stackoverflow.com/questions/11566609/difference-between-jax-ws-axis2-and-cxf">JAX-WS vs Axis2 vs CXF</a>. <a href="http://stackoverflow.com/questions/1243247/difference-between-apache-cxf-and-axis">CFX vs AXIS</a>. <a href="http://stackoverflow.com/questions/297033/which-framework-is-better-cxf-or-spring-ws">CXF vs Spring-WS</a>
 - <a href="http://nagesh625.blogspot.ru/2013/12/axis-vs-cxf-vs-spring-webservices.html">AXIS vs CXF vs Spring WebServices</a>
+- <a href="http://www.javacodebook.com/2013/08/19/web-service-framework-comparison-2013-part-ii/">Web Service Framework Comparison</a>
 - <a href="http://docs.spring.io/spring-ws/sites/2.0/reference/html/why-contract-first.html">Contract-first and Contract-last styles</a>
 - <a href="http://docs.spring.io/spring-ws/docs/2.2.0.RELEASE/reference/htmlsingle/#message-factories">Spring-WS Message Factories</a>
 
