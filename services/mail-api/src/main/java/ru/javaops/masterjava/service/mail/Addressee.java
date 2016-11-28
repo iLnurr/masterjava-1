@@ -12,6 +12,10 @@ import lombok.NoArgsConstructor;
 @AllArgsConstructor
 @NoArgsConstructor
 public class Addressee {
-    private String name;
     private String email;
+    private String name;
+
+    public Addressee(String email) {
+        this(email, null);
+    }
 }
