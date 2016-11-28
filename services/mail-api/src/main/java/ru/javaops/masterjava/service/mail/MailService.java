@@ -9,7 +9,11 @@ import java.util.List;
  * gkislin
  * 15.11.2016
  */
-@WebService
+@WebService(targetNamespace = "http://mail.javaops.ru/")
+//@SOAPBinding(
+//        style = SOAPBinding.Style.DOCUMENT,
+//        use= SOAPBinding.Use.LITERAL,
+//        parameterStyle = SOAPBinding.ParameterStyle.WRAPPED)
 public interface MailService {
 
     @WebMethod
