@@ -7,7 +7,7 @@
 
 - <a href="http://stackoverflow.com/questions/1631396/what-is-an-xsncname-type-and-when-should-it-be-used">xs:ID restriction</a>
 - <a href="https://www.youtube.com/watch?v=hxL5HejbvgE">Тагир Валеев. StreamEx + странности Stream API</a>  
-- <a href="https://github.com/amaembo/streamex">StreamEx</a>  
+- <a href="https://habrahabr.ru/post/255659/">StreamEx примеры</a> 
 - <a href="http://j2html.com/">Java HTML5 builder</a>  
 
 ### ![video](https://cloud.githubusercontent.com/assets/13649199/13672715/06dbc6ce-e6e7-11e5-81a9-04fbddb9e488.png) 2. <a href="https://drive.google.com/open?id=0B9Ye2auQ_NsFZ3JzdFpOekliVjA">Optional: StAX</a> 
