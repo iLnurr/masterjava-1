@@ -2,11 +2,11 @@
 
 ## ![hw](https://cloud.githubusercontent.com/assets/13649199/13672719/09593080-e6e7-11e5-81d1-5cb629c438ca.png) Разбор домашнего задания HW5
 
-### Реализация `MailSender`
+### ![video](https://cloud.githubusercontent.com/assets/13649199/13672715/06dbc6ce-e6e7-11e5-81a9-04fbddb9e488.png) 1. <a href="https://drive.google.com/drive/folders/0B9Ye2auQ_NsFNkV5d1pkb21XeG8">Реализация `MailSender`</a>
 - <a href="https://yandex.ru/blog/company/66296">List-Unsubcribe</a>
 - <a href="https://aws.amazon.com/ru/ses/">Amazon Simple Email Service</a>
 
-### Сохранение результатов отправки в DB
+### ![video](https://cloud.githubusercontent.com/assets/13649199/13672715/06dbc6ce-e6e7-11e5-81a9-04fbddb9e488.png) 2. <a href="https://drive.google.com/file/d/0B9Ye2auQ_NsFT3VocUpKSzZlRTg">Сохранение результатов отправки в DB</a>
 - <a href="http://stackoverflow.com/a/25322753/548473">Resolving Maven circular dependencies</a>
 - <a href="http://maven.apache.org/guides/mini/guide-attached-tests.html">Guide to using attached tests</a>
 
