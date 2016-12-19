@@ -1,6 +1,6 @@
 # Онлайн проекта  <a href="https://github.com/JavaWebinar/masterjava">Masterjava</a>.
 
-## ![hw](https://cloud.githubusercontent.com/assets/13649199/13672719/09593080-e6e7-11e5-81d1-5cb629c438ca.png) Разбор домашнего задания HW5
+## ![hw](https://cloud.githubusercontent.com/assets/13649199/13672719/09593080-e6e7-11e5-81d1-5cb629c438ca.png) Разбор домашнего задания HW6
 
 ### ![video](https://cloud.githubusercontent.com/assets/13649199/13672715/06dbc6ce-e6e7-11e5-81a9-04fbddb9e488.png) 1. <a href="https://drive.google.com/file/d/0B9Ye2auQ_NsFY0phQnBkZFByZ00">Реализация `MailSender`</a>
 - <a href="https://yandex.ru/blog/company/66296">List-Unsubcribe</a>
