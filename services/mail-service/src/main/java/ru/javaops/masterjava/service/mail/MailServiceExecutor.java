@@ -1,11 +1,14 @@
 package ru.javaops.masterjava.service.mail;
 
+import lombok.extern.slf4j.Slf4j;
+
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Set;
 import java.util.concurrent.*;
 import java.util.stream.Collectors;
 
+@Slf4j
 public class MailServiceExecutor {
 
     private static final String INTERRUPTED_BY_FAULTS_NUMBER = "+++ Interrupted by faults number";
@@ -49,7 +52,9 @@ public class MailServiceExecutor {
                         return cancelWithFail(INTERRUPTED_EXCEPTION);
                     }
                 }
-                return new GroupResult(success, failed, null);
+                GroupResult groupResult = new GroupResult(success, failed, null);
+                log.info("groupResult: {}", groupResult);
+                return groupResult;
             }
 
             private GroupResult cancelWithFail(String cause) {

@@ -47,6 +47,7 @@ public class MailSender {
             state = e.getMessage();
         }
         MAIL_CASE_DAO.insert(MailCase.of(to, cc, subject, body, state));
+        log.info("Sent with state: " + state);
         return state;
     }
 }

@@ -1,5 +1,6 @@
 package ru.javaops.masterjava.service.mail;
 
+import com.google.common.collect.ImmutableList;
 import lombok.Data;
 import lombok.NoArgsConstructor;
 
@@ -13,8 +14,12 @@ import java.util.List;
 @NoArgsConstructor
 public class GroupResult {
     private int success; // number of successfully sent email
-    private List<MailResult> failed; // failed emails with causes
+    private List<MailResult> failed = ImmutableList.of(); // failed emails with causes
     private String failedCause;  // global fail cause
+
+    public GroupResult(String failedCause) {
+        this(-1, ImmutableList.of(), failedCause);
+    }
 
     public GroupResult(int success, List<MailResult> failed, String failedCause) {
         this.success = success;
@@ -26,6 +31,6 @@ public class GroupResult {
     public String toString() {
         return "Success: " + success + '\n' +
                 "Failed: " + failed.toString() + '\n' +
-                (failedCause == null ? "" : "Failed cause" + failedCause);
+                (failedCause == null ? "" : "Failed cause: " + failedCause);
     }
 }
