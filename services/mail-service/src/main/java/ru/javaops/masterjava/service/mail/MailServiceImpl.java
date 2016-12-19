@@ -2,6 +2,7 @@ package ru.javaops.masterjava.service.mail;
 
 import ru.javaops.web.WebStateException;
 
+import javax.jws.HandlerChain;
 import javax.jws.WebService;
 import java.util.Set;
 
@@ -12,6 +13,7 @@ import java.util.Set;
 @WebService(endpointInterface = "ru.javaops.masterjava.service.mail.MailService", targetNamespace = "http://mail.javaops.ru/"
 //          , wsdlLocation = "WEB-INF/wsdl/mailService.wsdl"
 )
+@HandlerChain(file = "mailWsHandlers.xml")
 public class MailServiceImpl implements MailService {
     private final MailServiceExecutor mailServiceExecutor = new MailServiceExecutor();
 
