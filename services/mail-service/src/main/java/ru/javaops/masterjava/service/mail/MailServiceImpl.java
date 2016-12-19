@@ -1,7 +1,7 @@
 package ru.javaops.masterjava.service.mail;
 
 import javax.jws.WebService;
-import java.util.List;
+import java.util.Set;
 
 /**
  * gkislin
@@ -11,7 +11,15 @@ import java.util.List;
 //          , wsdlLocation = "WEB-INF/wsdl/mailService.wsdl"
 )
 public class MailServiceImpl implements MailService {
-    public void sendMail(List<Addressee> to, List<Addressee> cc, String subject, String body) {
-        MailSender.sendMail(to, cc, subject, body);
+    private final MailServiceExecutor mailServiceExecutor = new MailServiceExecutor();
+
+    @Override
+    public String sendBulkMail(Set<Addressee> to, Set<Addressee> cc, String subject, String body) {
+        return MailSender.sendMail(to, cc, subject, body);
+    }
+
+    @Override
+    public GroupResult sendIndividualMails(Set<Addressee> to, String subject, String body) {
+        return mailServiceExecutor.sendToList(to, subject, body);
     }
 }
