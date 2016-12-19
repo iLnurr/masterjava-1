@@ -12,4 +12,4 @@
 - <a href="https://commons.apache.org/proper/commons-email/userguide.html">Sending emails with attachments</a>
   
 ### Optional
-Добавить в `version.html` <a href="https://habrahabr.ru/post/310738/">Git revision</a>    
+- Добавить <a href="https://habrahabr.ru/post/310738/">Git revision</a> в `version.html` 
