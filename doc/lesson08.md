@@ -7,7 +7,7 @@
 ### ![video](https://cloud.githubusercontent.com/assets/13649199/13672715/06dbc6ce-e6e7-11e5-81a9-04fbddb9e488.png) 3. - <a href="https://drive.google.com/open?id=0B9Ye2auQ_NsFRWc0Q2dfeGtabEE">Отправку индивидуальной почты через `MailServiceExecutor`</a>
 ### ![video](https://cloud.githubusercontent.com/assets/13649199/13672715/06dbc6ce-e6e7-11e5-81a9-04fbddb9e488.png) 4. - <a href="https://drive.google.com/open?id=0B9Ye2auQ_NsFWHdabmhJV2FUYzQ">Отправка почты из модуля `web`</a>
 
-##  ![video](https://cloud.githubusercontent.com/assets/13649199/13672715/06dbc6ce-e6e7-11e5-81a9-04fbddb9e488.png) 5. - <a href="https://drive.google.com/open?id=0B9Ye2auQ_NsFZDdwM2ZoX0RsZEU">SOAP Exception</a>
+##  ![video](https://cloud.githubusercontent.com/assets/13649199/13672715/06dbc6ce-e6e7-11e5-81a9-04fbddb9e488.png) 5. - <a href="https://drive.google.com/open?id=0B9Ye2auQ_NsFZDdwM2ZoX0RsZEU">SOAP Exception. Выделение общей части схемы</a>
 - <a href="http://blog.idrsolutions.com/2013/10/web-services-exception-handling/">Передача по SOAP Exception</a>
 
 ##  ![video](https://cloud.githubusercontent.com/assets/13649199/13672715/06dbc6ce-e6e7-11e5-81a9-04fbddb9e488.png) 6. - <a href="https://drive.google.com/open?id=0B9Ye2auQ_NsFczZjQVkyNkNLd00">Домашнее задание</a>
