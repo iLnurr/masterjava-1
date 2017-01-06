@@ -7,10 +7,10 @@
 ### ![video](https://cloud.githubusercontent.com/assets/13649199/13672715/06dbc6ce-e6e7-11e5-81a9-04fbddb9e488.png) 3. - <a href="https://drive.google.com/open?id=0B9Ye2auQ_NsFRWc0Q2dfeGtabEE">Отправку индивидуальной почты через `MailServiceExecutor`</a>
 ### ![video](https://cloud.githubusercontent.com/assets/13649199/13672715/06dbc6ce-e6e7-11e5-81a9-04fbddb9e488.png) 4. - <a href="https://drive.google.com/open?id=0B9Ye2auQ_NsFWHdabmhJV2FUYzQ">Отправка почты из модуля `web`</a>
 
-## SOAP Exception
+##  ![video](https://cloud.githubusercontent.com/assets/13649199/13672715/06dbc6ce-e6e7-11e5-81a9-04fbddb9e488.png) 5. - <a href="https://drive.google.com/open?id=0B9Ye2auQ_NsFZDdwM2ZoX0RsZEU">SOAP Exception</a>
 - <a href="http://blog.idrsolutions.com/2013/10/web-services-exception-handling/">Передача по SOAP Exception</a>
 
-## Домашнее задание
+##  ![video](https://cloud.githubusercontent.com/assets/13649199/13672715/06dbc6ce-e6e7-11e5-81a9-04fbddb9e488.png) 6. - <a href="https://drive.google.com/open?id=0B9Ye2auQ_NsFczZjQVkyNkNLd00">Домашнее задание</a>
 Сделать отправку почты из модуля web c вложениями:
 - <a href="http://www.mkyong.com/webservices/jax-ws/jax-ws-attachment-with-mtom/">JAX-WS attachment with MTOM</a> 
 - <a href="http://www.soapui.org/SOAP-and-WSDL/adding-headers-and-attachments.html">Тестирование вложений через SoapUi.</a>
