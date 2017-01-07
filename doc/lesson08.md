@@ -12,7 +12,7 @@
 
 ##  ![video](https://cloud.githubusercontent.com/assets/13649199/13672715/06dbc6ce-e6e7-11e5-81a9-04fbddb9e488.png) 6. <a href="https://drive.google.com/open?id=0B9Ye2auQ_NsFczZjQVkyNkNLd00">Домашнее задание</a>
 Сделать отправку почты из модуля web c вложениями:
-- <a href="http://www.mkyong.com/webservices/jax-ws/jax-ws-attachment-with-mtom/">JAX-WS attachment with MTOM</a> 
+- <a href="https://docs.oracle.com/cd/E14571_01/web.1111/e13734/mtom.htm">Binary Data Transmission Using MTOM/XOP</a> 
 - <a href="http://www.soapui.org/SOAP-and-WSDL/adding-headers-and-attachments.html">Тестирование вложений через SoapUi.</a>
 - <a href="https://commons.apache.org/proper/commons-email/userguide.html">Sending emails with attachments</a>
   
