@@ -9,7 +9,6 @@ import ru.javaops.web.WebStateException;
 import ru.javaops.web.WsClient;
 
 import javax.xml.namespace.QName;
-import javax.xml.ws.soap.MTOMFeature;
 import java.util.List;
 import java.util.Set;
 
@@ -55,7 +54,7 @@ public class MailWSClient {
     }
 
     private static MailService getPort() {
-        return WS_CLIENT.getPort(new MTOMFeature(1024));
+        return WS_CLIENT.getPort(/*new MTOMFeature(1024)*/);
     }
 
     public static Set<Addressee> split(String addressees) {
