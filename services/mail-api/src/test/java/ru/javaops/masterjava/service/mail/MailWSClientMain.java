@@ -16,7 +16,7 @@ public class MailWSClientMain {
                 new Addressee("Bad Email <bad_email.ru>"));
 
         try {
-            String state = MailWSClient.sendBulkMail(addressees, ImmutableSet.of(), "Subject", "Body");
+            String state = MailWSClient.sendBulkMail(addressees, ImmutableSet.of(), "Subject", "Body", null);
             System.out.println(state);
         } catch (Throwable e) {
             log.error(e.toString(), e);
