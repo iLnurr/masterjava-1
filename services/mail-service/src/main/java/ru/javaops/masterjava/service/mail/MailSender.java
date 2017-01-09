@@ -33,11 +33,15 @@ public class MailSender {
             val email = MailConfig.createHtmlEmail();
             email.setSubject(subject);
             email.setHtmlMsg(body);
-            for (Addressee addressee : to) {
-                email.addTo(addressee.getEmail(), addressee.getName());
+            if (to != null) {
+                for (Addressee addressee : to) {
+                    email.addTo(addressee.getEmail(), addressee.getName());
+                }
             }
-            for (Addressee addressee : cc) {
-                email.addCc(addressee.getEmail(), addressee.getName());
+            if (cc != null) {
+                for (Addressee addressee : cc) {
+                    email.addCc(addressee.getEmail(), addressee.getName());
+                }
             }
 
             //            https://yandex.ru/blog/company/66296
@@ -49,7 +53,7 @@ public class MailSender {
             state = e.getMessage();
         }
         try {
-            MAIL_CASE_DAO.insert(MailCase.of(to, cc, subject, body, null));
+            MAIL_CASE_DAO.insert(MailCase.of(to, cc, subject, body, state));
         } catch (Exception e) {
             log.error("Mail history saving exception", e);
             throw new WebStateException(ExceptionType.DATA_BASE, e);

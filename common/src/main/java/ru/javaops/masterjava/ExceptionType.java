@@ -1,9 +1,12 @@
 package ru.javaops.masterjava;
 
+import javax.xml.bind.annotation.XmlType;
+
 /**
  * User: gkislin
  * Date: 8/26/11
  */
+@XmlType(namespace = "http://common.javaops.ru/")
 public enum ExceptionType {
     SYSTEM("Системная ошибка"),
     DATA_BASE("Ошибка базы данных"),
